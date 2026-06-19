@@ -9,7 +9,7 @@ Tagline: **Digital Ecosystem for Wellness Brands**
 
 PhilFarm Garden Kitchen & Wellness Café has strong potential to grow as a nature-based café, garden destination, wellness activity space, and community lifestyle brand in Chiang Mai.
 
-Singhaya Online proposes to support PhilFarm with affordable monthly digital marketing, online communication, content planning, and basic business system structure to help improve brand clarity, customer engagement, and sales opportunities.
+Singhaya Online proposes to support PhilFarm with affordable monthly digital marketing, online communication, content planning, and basic digital workflow support to help improve brand clarity, customer engagement, and sales opportunities.
 
 ---
 
@@ -30,7 +30,7 @@ However, the business may benefit from clearer brand positioning, more consisten
 - Customer inquiry flow should be more organized
 - Need to attract café customers, tourists, cyclists, wellness clients, and event groups
 - Need to increase cash flow with affordable monthly support
-- Need a simple digital system before expanding into booking or CRM
+- Need a basic digital workflow before expanding into booking or CRM
 
 ---
 
