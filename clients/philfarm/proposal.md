@@ -53,6 +53,7 @@ Singhaya Online will support PhilFarm with:
 - Monthly content direction
 - Social media content planning
 - Facebook / Instagram communication support
+- LINE OA communication support
 - Basic marketing message development
 - Menu and wellness concept communication
 - Event promotion support
